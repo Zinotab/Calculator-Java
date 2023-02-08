@@ -1,5 +1,5 @@
 # Calculator-Java
-Calculator build with java
+Calculator built with java
 
 # pictures
 
